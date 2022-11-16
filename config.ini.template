@@ -1,0 +1,7 @@
+[bot]
+ID = 1
+TOKEN = TOKEN
+
+[guild]
+STAR_REACT_CHANNEL_ID = 1
+YES_NO_REACT_CHANNEL_ID = 2
